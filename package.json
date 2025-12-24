@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "order-service",
   "version": "0.0.1",
   "description": "",
@@ -74,4 +75,15 @@
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
   }
+=======
+  "name": "order_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+>>>>>>> 41dad7cb074a517a549185f8e5c3f763bb301fcd
 }
